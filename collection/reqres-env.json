@@ -1,0 +1,26 @@
+{
+	"id": "9b8b1007-9c17-496c-915a-f4420b8c30cf",
+	"name": "ReqRes Enviornment",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://reqres.in",
+			"initialValue": "https://reqres.in",
+			"currentValue": "https://reqres.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "api_key",
+			"value": "reqres_6c863fbd73054d7c919d3049af781f01",
+			"initialValue": "reqres_6c863fbd73054d7c919d3049af781f01",
+			"currentValue": "reqres_6c863fbd73054d7c919d3049af781f01",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-07T22:07:21.854Z",
+	"_postman_exported_using": "Postman/12.9.6"
+}
