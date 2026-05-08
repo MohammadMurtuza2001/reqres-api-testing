@@ -66,7 +66,7 @@ The HTML report will be generated inside a `/reports` folder.
 
 - **Postman Collection:** All 8 requests with automated assertions ([collection/](./collection/))
 - **Test Cases:** 20 documented test cases covering all endpoints ([View Spreadsheet](https://docs.google.com/spreadsheets/d/1DOS1U8fGukQIAvANRHiUabf2O-nUd6b89yGk9-k_ha4/edit?usp=sharing))
-- **Newman Report:** Full automated test run report ([reports/](./reports/))
+- **Newman Report:** Full automated test run report ([report/](./report/))
 - **Test Summary:** Written summary of results and observations ([test-summary/](./test-summary/))
 
 ## Author
