@@ -71,4 +71,4 @@ The HTML report will be generated inside a `/reports` folder.
 
 ## Author
 
-**Mohammad Murtuza Moin** | Aspiring QA Engineer
+**Mohammad Murtuza Moin**
